@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T15:44:58.760Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.3.673 Yowser/2.5 Safari/537.36" etag="yIbW_0mv9Q3u28DFju_5" version="20.1.1" type="github"><diagram id="jtW9q7bKkS7MZ59GIYDU" name="Page-1">3ZdNj5swEIZ/DcdK2CYEjguE7aXqIapa9YbAG5AgjljvQvrra7ANY0KkXZVu2Fwc+/X4g3lm7NgiYdU+1skp/8YyWlrYzlqLRBbGiNhY/HTKWSqevZHCoS4yZTQK++IPVaKt1Jcio8+GIWes5MXJFFN2PNKUG1pS16wxzZ5Yaa56Sg70QtinSXmp/iwynquvwNtR/0qLQ65XRq4ve6pEG6svec6TjDVAIjuLhDVjXNaqNqRl5zztFzkuvtI7bKymR/6WAfw7fiRPP4RHX8tfafzbLwL0hchZXpPyRX2wFdnWA7IiZHm4L+1OCWQZ9aXX667SsewK+nLXl0SbDUPsbl/jbBvTTOizKw6reKpUa8VgraA3C/v6FugYTILBotI+Vkz4WYMWzhIxJRpBkxec7k9J2vU0IqyFlvOqFC0kqspjtOa0vYoCDYBFZlBWUV6fhUmrk0COUDmBdIg0Y4QhR2k5iC49LlFBfRhmHrmLikL/jjBwlgmDCV8HDHkAIDxgOYE1mTwGxOEQUXdAYKyBKXYnUNEMVPyRUN3FcvvS+6ivh0AxJ/w02Bz8Bmxzubj9X9i2i+UiUn43mrF56MrUHBIxXOiIHer+Tem6aG1J6V2lO8tmpwjdFZXJ9UduDsW/k+vvPv4dYWdt8aE3MA0QcgHHBt6FCRcBXBsNyjFBidIFxsNFO8RgDC5d76aIiL86ROifDlaYTtfeMzpzVnR0buZeDgv5XTTHx2nfB574ZPcX</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-12T15:50:28.523Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.3.673 Yowser/2.5 Safari/537.36" etag="xHA_Yc-22w_UKD--qRwy" version="20.1.1" type="github">
+  <diagram id="jtW9q7bKkS7MZ59GIYDU" name="Page-1">
+    <mxGraphModel dx="1302" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tO2G3fU0guvlXcFZ9iB1-3" value="Страница логина/регистрации пользователя" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="140" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tO2G3fU0guvlXcFZ9iB1-4" value="Страница редактирования профиля" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tO2G3fU0guvlXcFZ9iB1-6" value="Страница просмотра профиля" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="110" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tO2G3fU0guvlXcFZ9iB1-7" value="Страница со списком пользователей" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="117.5" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="tO2G3fU0guvlXcFZ9iB1-8" value="Админ: Список пользователей" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tO2G3fU0guvlXcFZ9iB1-9" value="Админ:&amp;nbsp;Страница редактирования профиля пользователя" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="300" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tO2G3fU0guvlXcFZ9iB1-10" value="Админ:&amp;nbsp;Управление должностями" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="310" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tO2G3fU0guvlXcFZ9iB1-11" value="Список диалогов" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="520" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVrVA_ByrMYoxsdTNaSd-1" value="Страница с сообщениями" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
